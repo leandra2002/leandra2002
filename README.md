@@ -29,6 +29,6 @@
   <a href = "mailto:llflima2010@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white " target="_blank"></a>
  <!-- <a href="https://www.linkedin.com/in/thales-medeiros-7b9941138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn- %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->
     
-![ Animação de cobra ](https://github.com/Medeiros92/Medeiros92/blob/output/github-contribution-grid-snake.svg)
+<!--![ Animação de cobra ](https://github.com/leandra2002/leandra2002/blob/output/github-contribution-grid-snake.svg)-->
     
 </div>
